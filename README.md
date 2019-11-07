@@ -1,5 +1,6 @@
 # Hello-World
 Learning things
 
-hello!! Hoping to learn various coding languages 
-and probably try to stick around.
+hello!! Hoping to learn various coding languages,
+know python and c basics.
+
